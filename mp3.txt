@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 the second experiment
-=======
-the second experi123
->>>>>>> origin/feature
+
+
